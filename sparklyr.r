@@ -77,3 +77,6 @@ rf_predict <- sdf_predict(rf_model, iris_tbl) %>%
   collect
 
 table(rf_predict$Species_idx, rf_predict$prediction)
+
+
+#end

@@ -3,3 +3,6 @@ config.r
 *.log
 **/data.parquet
 **/logs
+*.csv
+.Rhistory
+.Rproj.user
