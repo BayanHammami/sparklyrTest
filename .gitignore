@@ -1,2 +1,4 @@
 *.Rproj
 config.r
+*.log
+./data.parquet/*
